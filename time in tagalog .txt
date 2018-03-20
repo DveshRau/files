@@ -1,0 +1,64 @@
+Numberingn /count only
+
+1- Isa
+2- Dalawa
+3- Tatlo
+4- apat
+5- lima
+6- anim
+7- pito
+8- walo
+9- siyam
+10-sampu
+11- labing isa
+
+20 -Dalawampu
+21 -Dalawampu't isa
+
+30- Tatlompu
+31- Tatlompu't isa
+
+
+
+
+
+time/money
+
+1 uno/una         1pm - ala unah
+2 dos             2pm - alas dos
+3 tres
+4 quatro
+5 singko/cinco
+6 sais
+7 syeteh
+8 ocho
+9 nueve
+10 diyes
+11 onseh
+12 doseh
+13 treseh
+14 qatorse
+15 kinseh
+16 disi-sais
+17 disi-syeteh
+18 disi-ocho
+19 disi-nueve
+
+20- benteh
+21 bente'y uno
+
+30 treinta
+31 treinta'y uno
+
+40 Quareinta
+41 Quareinta'y uno
+
+50 singkwenta
+55 singkwenta'y singko
+
+\5:30
+alas singko y meja
+
+
+
+
