@@ -1,0 +1,51 @@
+http://10.20.172.193:8082/hcatalog/
+
+
+Login id
+
+hatebbstechops1 (CN,IN, US)
+hatebbstechops2   (SG, DE, BH)
+lcebbstechops (MY and UG, AE)
+
+
+--sh run
+
+sh <filename>.sh
+
+
+--hql run
+
+hive -f ebbsdev_us_system.hql
+
+
+
+--Del file from hadoop after first run
+
+hadoop fs -rm -r /user/hatebbstechops1/HDTDComp_MMKDEAL_US
+
+
+-- for csv
+
+sed -i 's/\t/,/g'  $filename
+
+
+--false checking
+
+
+sed -n '/FALSE/='  $filename
+
+
+WHERE ods LIKE '2015_07_03%'
+
+
+
+--------check if got row id
+
+SELECT * FROM DBC.TABLES
+
+WHERE TABLENAME LIKE '%480%SYSTEM%'
+
+AND DATABASENAME = 'SCS05_PT_TB';
+
+ 
+
